@@ -1,0 +1,3 @@
+- Configure your repo  
+  $ git config --global user.email "you@example.com" = add your email  
+  $ git config --global user.name "Your Name" = add your username
